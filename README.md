@@ -369,4 +369,4 @@ This is a living document. If you find something wrong, missing, or that could b
 
 ---
 
-*Opinions are my own. For the thinking behind this guide, read my article: [The context your AI agent needs is not a file, but a lifecycle](https://www.notion.so/YOUR_MEDIUM_LINK).*
+*Opinions are my own. For the thinking behind this guide, read my article: [The context your AI agent needs is not a file, but a lifecycle](https://medium.com/@faricci_62865/ed26f563b2fb).*
